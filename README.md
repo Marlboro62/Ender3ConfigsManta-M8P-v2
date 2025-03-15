@@ -34,8 +34,8 @@ Les cartes BIGTREETECH CB1 et CB2 sont des cartes de contrôle pour imprimantes 
 Voici les différences principales entre les CB1 et CB2 :
 
 # 1. Processeur
-CB1 : Utilise un processeur ARM Cortex-A7.
-CB2 : Utilise un processeur plus performant, souvent un Cortex-A55, qui offre de meilleures performances pour le traitement et la gestion des tâches complexes.
+- CB1 : Utilise un processeur ARM Cortex-A7.
+- CB2 : Utilise un processeur plus performant, souvent un Cortex-A55, qui offre de meilleures performances pour le traitement et la gestion des tâches complexes.
 # 2. Connectivité
 CB1 : Supporte principalement une connexion Ethernet et le Wi-Fi via un adaptateur.
 CB2 : Supporte une meilleure connectivité sans fil, avec Wi-Fi intégré directement dans la carte, offrant une configuration plus simple et une utilisation plus flexible.
