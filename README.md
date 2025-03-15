@@ -33,22 +33,23 @@ Les cartes BIGTREETECH CB1 et CB2 sont des cartes de contrôle pour imprimantes 
 
 Voici les différences principales entre les CB1 et CB2 :
 
-1. Processeur
+# 1. Processeur
 CB1 : Utilise un processeur ARM Cortex-A7.
 CB2 : Utilise un processeur plus performant, souvent un Cortex-A55, qui offre de meilleures performances pour le traitement et la gestion des tâches complexes.
-2. Connectivité
+# 2. Connectivité
 CB1 : Supporte principalement une connexion Ethernet et le Wi-Fi via un adaptateur.
 CB2 : Supporte une meilleure connectivité sans fil, avec Wi-Fi intégré directement dans la carte, offrant une configuration plus simple et une utilisation plus flexible.
-3. Affichage et Interface
+# 3. Affichage et Interface
 CB1 : Dispose d'un écran tactile pour l'interface utilisateur, mais la résolution et l'expérience peuvent être plus limitées.
 CB2 : Offre un affichage plus moderne avec une résolution supérieure et des interfaces utilisateurs plus réactives et ergonomiques.
-4. Support logiciel
+# 4. Support logiciel
 CB1 : Utilise souvent des versions moins récentes de certains logiciels ou des configurations moins avancées.
 CB2 : Supporte souvent des versions de logiciels plus récentes et bénéficie d'une meilleure compatibilité avec les plateformes modernes, comme Klipper ou Marlin.
-5. Portée et Applications
+# 5. Portée et Applications
 CB1 : Plus adapté à des applications basiques ou intermédiaires.
 CB2 : Plus adapté pour des imprimantes 3D plus complexes et des utilisateurs recherchant des performances accrues et une gestion plus fluide des impressions.
-6. Consommation d'énergie et refroidissement
+# 6. Consommation d'énergie et refroidissement
 CB1 : Consomme un peu moins d'énergie en raison de son processeur moins puissant.
 CB2 : Avec un processeur plus puissant, la consommation d'énergie est un peu plus élevée, mais offre une meilleure gestion thermique.
+
 En résumé, la CB2 est plus avancée en termes de performance, de connectivité et de compatibilité logicielle par rapport à la CB1. Si vous avez besoin de plus de puissance, de fonctionnalités et d'une connectivité plus simple, la CB2 est un meilleur choix.
