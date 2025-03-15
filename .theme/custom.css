@@ -1,0 +1,55 @@
+.theme--dark.v-navigation-drawer {
+    background-color: rgba(241, 21, 21, 0.034);
+}
+
+.v-application .warning {
+    background-color: #e2372a !important;
+    border-color: #f02113 !important;
+}
+
+.active-nav-item[data-v-275dea6e] {
+    border-right: 4px solid #f02213;
+    }
+
+.theme--dark.v-list-item:not(.v-list-item--active):not(.v-list-item--disabled) {
+        color: #fff;
+        text-shadow: 1px 1px 2px rgb(46, 45, 45);
+    }
+
+    .theme--dark.v-app-bar.v-toolbar.v-sheet {
+        background-color :#1a1a1a1c;
+        }
+  
+        td.current {
+            color: #9fee0b;
+            }    
+
+            .theme--dark.v-data-table {
+                color : #e96920; 
+                }
+
+                .v-application .primary {
+                    background-color: #e2372a !important;
+                    border-color: #f02113 !important;
+                }
+                .theme--dark.v-btn.v-btn--icon{
+                    color : #316fe2; 
+                    }
+                    .theme--dark.v-icon{
+                        color : #d1cfcf;
+                        }
+                        .theme--dark.v-btn{
+                            color : #52a025; 
+                            }
+                            .v-btn:not(.v-btn--outlined).primary {
+                                color: #beb3b3;
+                            }
+
+                            .v-application a {
+                                color: #25e02f;
+                            }
+
+                            .v-application .primary--text {
+                                color: #fff !important;
+                                caret-color: #4ca5ed !important;
+                            }
