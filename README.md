@@ -29,8 +29,7 @@
 
   # DIFFERENCES ENTRE CB1 & CB2 BigTreeTech :
 
-  Les cartes BIGTREETECH CB1 et CB2 sont des cartes de contrôle pour imprimantes 3D développées par BIGTREETECH. 
-  Elles sont principalement utilisées pour remplacer les cartes de contrôle classiques dans les imprimantes 3D, offrant des performances améliorées et une connectivité plus moderne.
+Les cartes BIGTREETECH CB1 et CB2 sont des cartes de contrôle pour imprimantes 3D développées par BIGTREETECH. Elles sont principalement utilisées pour remplacer les cartes de contrôle classiques dans les imprimantes 3D, offrant des performances améliorées et une connectivité plus moderne.
 
 Voici les différences principales entre les CB1 et CB2 :
 
